@@ -1,0 +1,1 @@
+print("Aleksis Orlovs - 5. komanda")
