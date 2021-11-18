@@ -4,3 +4,4 @@ print("Haralds Silins")
 print("Valters Edvards Plaudis")
 
 print("Anita Liva")
+print("Anita")
